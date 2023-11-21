@@ -20,7 +20,7 @@
   - Data Structures
   - OOP
 - Any Technology or Framework knowledge is a plus
-- [Interview Preparation](./) (Currently private)
+- [Interview Questions](./) (Currently private)
 
 ## Projects' Repos 🤖
 
