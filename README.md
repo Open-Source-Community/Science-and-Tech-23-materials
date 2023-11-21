@@ -1,27 +1,39 @@
 # Science-and-Tech-23-materials
 
+## Head Plan 🗺️
 
-## Summer Training
+- [Mohamed Samy&#39;s Plan 2023](./Mohamed_Samy_S&T_Head.pdf)
 
-- [The Art Of Design Patterns](https://github.com/Open-Source-Community/The-Art-Of-Design-Patterns-Summer-Training)
+## Summer Training 😎🌞
 
-## Sessions:
+- [The Art Of Design Patterns](https://github.com/Open-Source-Community/The-Art-Of-Design-Patterns-Summer-Training) 2023 Summer training
+- [The Art Of Data Structures](https://github.com/Open-Source-Community/The-Art-Of-Data-Structures) 2022 Summer training
 
-- Big O Notation 
-- Intro to Deep Learning and Object Detection:
-- RESTful APIs
+## Sessions made by members 🫱🏻‍🫲🏻
 
- 
-## Projects' Repos:
+- [Big O Notation](./Big%20o%20notation.pptm) (Mahmoud Mohamed)
+- [Intro to Deep Learning and Object Detection](./Intro%20to%20Deep%20Learning/OSC%20PPT.pptx) (Abdelrhman Abdelsalam)
+- [RESTful APIs](./API.pptx) (Ahmed Magdy & Sara Mohamed)
 
-### Skin Cancer Detection App:
+## Interview Preparation 🤵🏻
+- Prior knowledge:
+  - Data Structures
+  - OOP
+- Any Technology or Framework knowledge is a plus
+- [Interview Preparation](./) (Currently private)
 
-- 
+## Projects' Repos 🤖
 
-### Kids Tracking App:
+### Skin Cancer Detection App ☠️
 
-- 
+- [Repo]()
 
-UI/UX Design by UX and design committee :
+### Kids Tracking App 👶
 
-- 
+- [Repo]()
+
+#### UI/UX Designs by UX and design committee 🎨
+
+1-
+2-
+3-
