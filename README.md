@@ -16,6 +16,7 @@
 - [RESTful APIs](./API.pptx) (Ahmed Magdy & Sara Mohamed)
 
 ## Interview Preparation 🤵🏻
+
 - Prior knowledge:
   - Data Structures
   - OOP
@@ -34,6 +35,4 @@
 
 #### UI/UX Designs by UX and design committee 🎨
 
-1-
-2-
-3-
+- [Design](./ui_ux_design_kidsApp.pptx)
