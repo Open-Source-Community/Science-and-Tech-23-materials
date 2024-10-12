@@ -25,13 +25,26 @@
 
 ## Projects' Repos 🤖
 
-### Skin Cancer Detection App ☠️
+### Red Eye Smart Cities Surviellance System (Benha 2022 hackathon 1st place) 👁️
+- [Main Repo](https://github.com/Mohamed-Samy26/Red-Eye-Smart-cities-surviellance-system)
+- [Mobile App](https://github.com/Medhat74/Red-Eye-Dashboard-App-)
 
-- [Repo]()
+### MAKchain Smart Identity BlockChain Framework For Governments (Benha 2023 hackathon 2nd place) ⛓️
+- [Main Repo](https://github.com/Mohamed-Samy26/MAKchain-Smart-Identity-BlockChain-Framework-For-Governments)
+- [Mobile App](https://github.com/Medhat74/gov_app)
+
+### RandoChat 💬
+- [Repo](https://github.com/Open-Source-Community/RandoChat)
+
+### Found And Lost 🔎
+- [Repo](https://github.com/Nourhan2492018/FindAndLost)
+
+### Skin Cancer Detection App ☠️
+- [Repo "unavailable"]()
 
 ### Kids Tracking App 👶
 
-- [Repo]()
+- [Repo "unavailable"]()
 
 #### UI/UX Designs by UX and design committee 🎨
 
